@@ -1,0 +1,58 @@
+#feature {
+ background-color: #8CC63E;
+ background-image: url("https://static.vecteezy.com/system/resources/thumbnails/024/553/500/small/dolphin-modern-pop-art-style-colorful-dolphin-illustration-pastel-sticker-cute-colors-ai-generated-png.png");
+ background-size:contain;
+ background-position: right;
+ background-repeat:no-repeat;}
+
+* {
+				
+				color: #000000;
+				text-align: center;}
+			body {
+			    font-family: Arial, Verdana, sans-serif;
+				width: 90%;
+				margin: 0 auto;
+                background-image: url("https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F2RNK1P0BYVrSCZEy_Sd1Ew%252F3417757448_4a6bdf36ce_o.jpg&width=910")}
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 1%;}
+			.column1, .column2, .column3 {
+				width: 31.3%;
+				float: left;;
+				margin: 1%;}
+			.column3 {
+				margin-right: 0%;}
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav, #footer {
+				background-color: #89C997;
+				padding: 0.5em 0;}
+			#feature, .article {
+				height: 10em;
+				margin-bottom: 1em;
+				background-color: #51C3B3;}
+.column1{
+  background-color: #C3B7DC 
+;
+}
+.column2{
+  background-color: #DCB7B7;
+}
+.column3{
+  background-color: #B7CCDC ;
+}
+#header{
+   font-family: 'JelleeBold';
+   font-weight: normal;
+   font-style: normal;}
+#nav{
+  font-family: Arial, Verdana, sans-serif;
+}
+<style>
+p {
+  background-image: url('img_girl.jpg');
+}
+</style>

@@ -1,0 +1,16 @@
+
+
+
+  body {
+    height: 200px;
+    background: beige;
+  }
+  .dot {
+    --color: blue;
+    --scale: 15px;
+    width: var(--scale);
+    height: var(--scale);
+    border-radius: 999px; /* rounds corners */
+    background: var(--color);
+    position: absolute;
+  }
